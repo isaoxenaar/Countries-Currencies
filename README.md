@@ -1,4 +1,4 @@
-This TechAssignment was made for Anyfin.
+This TechAssignment was made for a Job Tech Test.
 
 It used the following modules:
 
